@@ -1,0 +1,15 @@
+{
+   "name": "apoderado",
+   "version": "1.0.0",
+   "description": "Apoderado server",
+   "main": "apoderado.js",
+   "scripts": {
+      "start": "node apoderado.js"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "express": "^4.17.1"
+   }
+}
